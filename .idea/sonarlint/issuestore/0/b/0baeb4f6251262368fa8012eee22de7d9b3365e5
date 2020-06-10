@@ -1,0 +1,17 @@
+
+…squid:S11921"bDefine a constant instead of duplicating this literal "UPDATE historiaWizyt SET imie = '" 3 times.(«­çÔùÿÿÿÿ8È²ªó©.
+zsquid:S1192_"]Define a constant instead of duplicating this literal "SELECT * FROM historiaWizyt;" 3 times.( ‰ş/8È²ªó©.
+Nsquid:S1659r"+Declare "to_date_check" on a separate line.(¸ğ´œÿÿÿÿÿ8˜’Óó©.
+Hsquid:S1659q"%Declare "to_date" on a separate line.(®Üí³şÿÿÿÿ8È²ªó©.
+usquid:S00117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÙ¾ÿûÿÿÿÿ8ˆ¢ó©.
+usquid:S00117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÙ¾ÿûÿÿÿÿ8ˆ¢ó©.
+qsquid:S11921"NDefine a constant instead of duplicating this literal "' WHERE id = " 7 times.(«­çÔùÿÿÿÿ8È²ªó©.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—£ æ
+usquid:S00117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ğ´œÿÿÿÿÿ8˜’Óó©.
+usquid:S00117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Üí³şÿÿÿÿ8È²ªó©.
+osquid:S1192X"LDefine a constant instead of duplicating this literal "dataWyjscia" 3 times.(š°Öúÿÿÿÿ8¶ÏÓó©.
+usquid:S00117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ğ´œÿÿÿÿÿ8˜’Óó©.
+asquid:S00107("=Method has 10 parameters, which is greater than 7 authorized.(ñƒò¤üÿÿÿÿ8È²ªó©.
+jsquid:S1192W"LDefine a constant instead of duplicating this literal "dataWejscia" 3 times.(ç—ñ8¶ÏÓó©.
+usquid:S00117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Üí³şÿÿÿÿ8È²ªó©.
+wsquid:S1192u"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 3 times.(öÅ€Ÿúÿÿÿÿ8˜’Óó©.
